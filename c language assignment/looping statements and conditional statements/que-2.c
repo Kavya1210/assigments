@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//heder file
 int main()
 {
 	int numbers[5];
